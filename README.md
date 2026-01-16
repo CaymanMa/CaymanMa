@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello, I'm Cayman! (He/Him) 👋
+Welcome to my GitHub profile!
 
-<!--
-**CaymanMa/CaymanMa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About me
 
-Here are some ideas to get you started:
+- Currently, I'm a student attending University of Victoria, finally tackling a Computer Science degree after over a decade of interest in the subject.
+- I'm interested in automation, data, and clean code.
+- My goal is to become a professional full-stack developer!
+- I'm searching for other people who would possibly like to collaborate.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Favorite languages:** Python, Java, C++
+- **Tools:** Git, GitHub, VS Code
+
+## 📫 Get in touch
+- 📧 Email: caymanmakortoffcode@gmail.com
+- 💬 Open to collaboration on just about anything!
