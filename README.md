@@ -13,5 +13,5 @@ Welcome to my **GitHub profile**!
 - 🔧 **Tools:** Git, GitHub, VS Code
 
 ## 📫 Get in touch
-- 📧 Email: caymanmakortoffcode@gmail.com
+- 📧 Email: caymanmakortoff.dev@gmail.com
 - 💬 Open to collaboration on just about anything!
