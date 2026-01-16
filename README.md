@@ -14,4 +14,4 @@ Welcome to my **GitHub profile**!
 
 ## 📫 Get in touch
 - 📧 Email: caymanmakortoff.dev@gmail.com
-- 💬 Open to collaboration on just about anything!
+- 💬 Open to collaborate on just about anything!
